@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>test</title>
+  <link>test.xml</link>
+  <description>test</description>
+  <item>
+    <title>57</title>
+    <link>sinop.com</link>
+    <description>sinop</description>
+  </item>
+</channel>
+
+</rss>
