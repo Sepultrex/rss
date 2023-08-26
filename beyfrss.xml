@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-<title>57</title>
-<link>https://myanimelist.net/profile/Sepultrex</link>
-<description>sinop</description>
-  <item>
-<title>Test</title>
+<title>Beyf Rss</title>
 <link>https://github.com/Sepultrex</link>
-<guid>https://github.com/Sepultrex</guid>
-<description>
-<![CDATA[ test ]]>
-</description>
-<pubDate>Sat, 26 Aug 2023 00:40:46 +0300</pubDate>
+<description>Sinop en iyi il</description>
+  <item>
+<title>Breaking news</title>
+<description>lera patladı</description>
   </item>
   </channel>
 </rss>
