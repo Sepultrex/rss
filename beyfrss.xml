@@ -5,13 +5,13 @@
 <link>https://myanimelist.net/profile/Sepultrex</link>
 <description>sinop</description>
   <item>
-<title>K-On!!</title>
-<link>https://myanimelist.net/anime/7791/K-On</link>
-<guid>https://myanimelist.net/anime/7791/K-On</guid>
+<title>Test</title>
+<link>https://github.com/Sepultrex</link>
+<guid>https://github.com/Sepultrex</guid>
 <description>
-<![CDATA[ Watching - 16 of 26 episodes ]]>
+<![CDATA[ test ]]>
 </description>
 <pubDate>Sat, 26 Aug 2023 00:40:46 +0300</pubDate>
-</item>
+  </item>
   </channel>
 </rss>
