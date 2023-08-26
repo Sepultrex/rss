@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
-  <title>test</title>
-  <link>test.xml</link>
-  <description>test</description>
+<title>57</title>
+<link>https://myanimelist.net/profile/Sepultrex</link>
+<description>sinop</description>
   <item>
-    <title>57</title>
-    <link>sinop.com</link>
-    <description>sinop</description>
-  </item>
-</channel>
-
+<title>K-On!!</title>
+<link>https://myanimelist.net/anime/7791/K-On</link>
+<guid>https://myanimelist.net/anime/7791/K-On</guid>
+<description>
+<![CDATA[ Watching - 16 of 26 episodes ]]>
+</description>
+<pubDate>Sat, 26 Aug 2023 00:40:46 +0300</pubDate>
+</item>
+  </channel>
 </rss>
