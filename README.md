@@ -1,2 +1,2 @@
 # github pagesde rss hostlama
-## xoxo
+saçmalık #1
