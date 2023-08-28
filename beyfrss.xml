@@ -3,10 +3,14 @@
 <title>Beyf Rss</title>
 <link>https://github.com/Sepultrex</link>
 <description>Sinop en iyi il</description>
-  <item>
-    <title>Breaking News</title>
-    <link>https://discord.com/channels/1023226548729434143/1023226549891252245</link>
-    <description>Lera Patladı</description>
-  </item>
+<item>
+<title>Breaking News</title>
+<link>https://github.com/Sepultrex</link>
+<guid>https://github.com/Sepultrex</guid>
+<description>
+<![CDATA[ test ]]>
+</description>
+<pubDate>Mon, 28 Aug 2023 15:00:00 -0700</pubDate>
+</item> 
   </channel>
 </rss>
